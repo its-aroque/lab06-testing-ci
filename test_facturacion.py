@@ -1,5 +1,7 @@
-import pytest
 from unittest.mock import patch
+
+import pytest
+
 from facturacion import calcular_total_factura
 
 

@@ -1,5 +1,6 @@
 
-from unittest.mock import patch, MagicMock
+from unittest.mock import MagicMock, patch
+
 from facturacion import calcular_total_factura
 
 
